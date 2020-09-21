@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.2.0)
+  - JGProgressHUD (2.1)
+  - SideMenu (6.4.9)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - JGProgressHUD
+  - SideMenu
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JGProgressHUD
+    - SideMenu
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c1ca147559e730bfb2182c8c7aafbdd90a867987
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: ccc6b8e8767fa2f0ea2693065edb3357b5dd7448
+
+COCOAPODS: 1.9.1
